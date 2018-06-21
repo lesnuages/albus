@@ -1,0 +1,8 @@
+[package]
+name = "rshell"
+version = "0.1.0"
+authors = ["Ronan Kervella <1799430+lesnuages@users.noreply.github.com>"]
+
+[dependencies]
+mmap = "*"
+byteorder = "1"
